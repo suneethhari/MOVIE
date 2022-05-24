@@ -1,0 +1,9 @@
+body{
+background-image:url('static/images/earth.jpg');
+}
+.card-img-top{
+
+border:solid 20px;
+border-color:red;
+
+}
